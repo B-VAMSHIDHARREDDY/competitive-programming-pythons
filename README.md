@@ -1,1 +1,1 @@
-# competitive-programming-pythons
+# competitive-programming-python
