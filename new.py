@@ -16,4 +16,3 @@ for _ in range(a):
     l.append(count)
 for i in l:
     print(i)
-
